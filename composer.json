@@ -1,5 +1,5 @@
 {
-    "name": "amit/db",
+    "name": "amitdb/db",
     "description": "db",
     "autoload": {
         "psr-4": {
