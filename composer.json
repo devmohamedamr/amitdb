@@ -1,0 +1,15 @@
+{
+    "name": "amit/db",
+    "description": "db",
+    "autoload": {
+        "psr-4": {
+            "Amit\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed"
+        }
+    ],
+    "require": {}
+}
